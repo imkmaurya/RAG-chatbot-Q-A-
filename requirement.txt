@@ -9,8 +9,8 @@ langchain-text-splitters
 # ----------------------------
 # LLM Integration
 # ----------------------------
-langchain-mistralai
-mistralai
+langchain-google-genai
+langchain-huggingface
 
 # ----------------------------
 # Embeddings
